@@ -1,3 +1,5 @@
+![Zoom video conferencing software](zoom_logo.png "Zoom video conferencing software")
+
 Zoom video conferencing software will let you access Greenpeace virtual conferences.
 
 ### Always follow the three golden rules

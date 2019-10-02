@@ -3,6 +3,7 @@ title: Zoom Video Conferencing
 description: Download the Zoom video conferencing software
 logo: greenpeace_logo.png
 show_downloads: "true"
-first_button_url: https://greenpeace.zoom.us/join
-second_button_url: https://greenpeace.zoom.us/start/videomeeting
-third_button_url: https://greenpeace.zoom.us/download
+button1_url: https://greenpeace.zoom.us/join
+button2_url: https://greenpeace.zoom.us/start/videomeeting
+button3_url: https://greenpeace.zoom.us/signin
+button4_url: https://greenpeace.zoom.us/download

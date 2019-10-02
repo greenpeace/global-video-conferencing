@@ -28,12 +28,15 @@
       {% endif %}
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       {% if site.show_downloads %}
-        <a href="{{ site.first_button_url }}" class="btn">Join</a>
-        {% if site.second_button_url %}
-          <a href="{{ site.second_button_url }}" class="btn">Host</a>
+        <a href="{{ site.button1_url }}" class="btn">Join</a>
+        {% if site.button2_url %}
+          <a href="{{ site.button2_url }}" class="btn">Host</a>
         {% endif %}
-        {% if site.third_button_url %}
-          <a href="{{ site.third_button_url }}" class="btn">Download client</a>
+        {% if site.button3_url %}
+          <a href="{{ site.button3_url }}" class="btn">Sign in</a>
+        {% endif %}
+        {% if site.button4_url %}
+          <a href="{{ site.button4_url }}" class="btn">Download</a>
         {% endif %}
       {% endif %}
     </header>
