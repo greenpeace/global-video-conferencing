@@ -2,6 +2,7 @@ theme: jekyll-theme-cayman
 title: Video Conferencing
 description: Use Zoom for Greenpeace virtual meetings.
 logo: greenpeace_logo.png
+zoom_logo: zoom_logo.png
 show_downloads: "true"
 button1_url: https://greenpeace.zoom.us/join
 button2_url: https://greenpeace.zoom.us/start/videomeeting
