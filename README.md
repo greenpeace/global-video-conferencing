@@ -9,3 +9,4 @@
 * To be seen clearly, have **good lighting behind the camera** or to the side, not behind you!
 * Touching or playing with your microphone will flood the call with noise
 * Use mobile data if you have an app to track your data usage or else it gets expensive
+For more tips on best practices while joining or hosting meetings and webinars [check out the documentation](https://support.greenpeace.org/support/collaboration/video-conferencing).
