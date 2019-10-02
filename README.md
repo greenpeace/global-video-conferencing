@@ -1,4 +1,5 @@
-### Three golden rules to follow (one person breaking them can ruin the call for all)
+### Three golden rules to follow
+##### (one person breaking them can ruin the call for all)
 
 1. **Always wear a headset** to prevent echo. The attached microphone stops background noise (like your computer's fan, hard disk or keyboard tapping). iPhone-style "string" and bluetooth sets give poor quality audio.
 2. **Use in a quiet area or keep on mute.** Background noise causes fatigue, and more than one person with background noise can easily stop anyone hearing anything.
@@ -9,4 +10,5 @@
 * To be seen clearly, have **good lighting behind the camera** or to the side, not behind you!
 * Touching or playing with your microphone will flood the call with noise
 * Use mobile data if you have an app to track your data usage or else it gets expensive
+
 For more tips on best practices while joining or hosting meetings and webinars [check out the documentation](https://support.greenpeace.org/support/collaboration/video-conferencing).
