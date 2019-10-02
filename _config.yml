@@ -1,4 +1,8 @@
 theme: jekyll-theme-cayman
 title: Zoom Video Conferencing
 description: Download the Zoom video conferencing software
+logo: greenpeace_logo.png
 show_downloads: "true"
+first_button_url: https://greenpeace.zoom.us/join
+second_button_url: https://greenpeace.zoom.us/start/videomeeting
+third_button_url: https://greenpeace.zoom.us/download
