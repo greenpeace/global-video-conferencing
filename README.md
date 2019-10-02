@@ -2,7 +2,7 @@
 
 1. **Always wear a headset** to prevent echo. The attached microphone stops background noise (like your computer's fan, hard disk or keyboard tapping). iPhone-style "string" and bluetooth sets give poor quality audio.
 2. **Use in a quiet area or keep on mute.** Background noise causes fatigue, and more than one person with background noise can easily stop anyone hearing anything.
-3. **Make a test call:** A slow connection or a connection filled with too much traffic will make your sound and video choppy and hard to hear and see. A meeting ID will work even before your meeting takes place, use it to check if your image shown unbroken back to you.
+3. **Make a test call.** A slow connection or a connection filled with too much traffic can compromise your sound and video quality. A meeting ID will work even before your meeting takes place, use it to check if your image shown unbroken back to you.
 
 #### Good to know
 * One person breaking the above rules can ruin the call for all!
