@@ -26,7 +26,7 @@
       {% if site.github.is_project_page %}
         <img src="{{ site.logo }}" width="150px">
       {% endif %}
-      <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+      <h2 class="project-tagline">{{ site.description }}</h2>
       {% if site.show_downloads %}
         <a href="{{ site.button1_url }}" class="btn">Join</a>
         {% if site.button2_url %}
