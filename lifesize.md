@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-[Click here to join a Lifesize call](http://vc.greenpeace.org/lifesize)
 
 | Lifesize is being replaced by Zoom | Update meetings in your calendars | Trainings for Zoom |
 |:-----------------------------------|:----------------------|:-------------------|
