@@ -2,12 +2,13 @@
 layout: default
 ---
 
-| Lifesize Video Conferencing        |
-|:-----------------------------------|
-| We are **transitioning video conferencing systems*** from LifeSize to **Zoom**. On November 4th you will no longer be able to use LifeSize in Video Conferencing rooms. To avoid issues make sure to update meetings in your calendars to remove any Lifesize box numbers and [add a Zoom meeting ID](https://support.greenpeace.org/support/collaboration/video-conferencing/using-zoom#create-a-meeting).|
-|Do you **need to use LifeSize** before the final switch? [Visit this page](http://vc.greenpeace.org/lifesize)        |
+| Lifesize is being replaced by Zoom | Need to use LifeSize? | Trainings for Zoom |
+|:-----------------------------------|:----------------------|:-------------------|
+| On **November 4th** LifeSize will be no longer available in Video Conferencing rooms. To avoid issues with your upcoming meetings make sure to update them in your calendars. Remove any Lifesize box numbers and [add a Zoom meeting ID](https://support.greenpeace.org/support/collaboration/video-conferencing/using-zoom#create-a-meeting).| If you still want to connect to a Lifesize box before the final switch [visit this page](http://vc.greenpeace.org/lifesize)    
+<a href="http://vc.greenpeace.org/lifesize" class="btn">Join a Lifesize call</a> | To be better prepared for the switch, training sessions have been scheduled. [Join one now](https://forms.gle/89naSikqcDu6mWSr5)! 
 
-### Three golden rules to follow
+
+### Three golden rules to follow during your meetings
 
 1. **Always wear a headset** to prevent echo. The attached microphone stops background noise (like your computer's fan, hard disk or keyboard tapping). iPhone-style "string" and bluetooth sets give poor quality audio.
 2. **Use in a quiet area or keep on mute.** Background noise causes fatigue, and more than one person with background noise can easily stop anyone hearing anything.
@@ -17,6 +18,7 @@ layout: default
 * One person breaking the above rules can ruin the call for all!
 * Use **Gallery View** when there is no presentation so that you can see others in the call
 * To be seen clearly, have **good lighting behind the camera** or to the side, not behind you!
+* Keep pressing spacebar for as long as you need to speak. This will temporarily unmute you.
 * Touching or playing with your microphone will flood the call with noise
 * Use mobile data if you have an app to track your data usage or else it gets expensive
 
