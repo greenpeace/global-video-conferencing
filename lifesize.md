@@ -1,10 +1,11 @@
 ---
 layout: default
 ---
+[Click here to join a Lifesize call](http://vc.greenpeace.org/lifesize)
 
-| Lifesize is being replaced by Zoom | Update your meetings! | Trainings for Zoom |
+| Lifesize is being replaced by Zoom | Update meetings in your calendars | Trainings for Zoom |
 |:-----------------------------------|:----------------------|:-------------------|
-| On **November 4th** LifeSize will be no longer available in Video Conferencing rooms. | Avoid issues with upcoming meetings. In your calendar meetings remove Lifesize box numbers and [add Zoom meeting IDs](https://support.greenpeace.org/support/collaboration/video-conferencing/using-zoom#create-a-meeting). | Be better prepared for the switch to Zoom. [Join a scheduled training!](https://forms.gle/89naSikqcDu6mWSr5)!
+| On **November 4th** LifeSize will be no longer available in Video Conferencing rooms. If you need to join a Lifesize call before the final transition you can [join here](http://vc.greenpeace.org/lifesize) | To avoid issues with meetings scheduled after November 4th update them in your calendar. Remove Lifesize box numbers and [add Zoom meeting IDs](https://support.greenpeace.org/support/collaboration/video-conferencing/using-zoom#create-a-meeting). | Be better prepared for the switch to Zoom by joining one of the scheduled trainings for using Zoom. [Sign up here!](https://forms.gle/89naSikqcDu6mWSr5)!
 
 ### Three golden rules to follow during your meetings
 
