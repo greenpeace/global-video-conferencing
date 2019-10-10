@@ -8,6 +8,7 @@
 * One person breaking the above rules can ruin the call for all!
 * Use **Gallery View** when there is no presentation so that you can see others in the call
 * To be seen clearly, have **good lighting behind the camera** or to the side, not behind you!
+* Keep pressing spacebar for as long as you need to speak. This will temporarily unmute you.
 * Touching or playing with your microphone will flood the call with noise
 * Use mobile data if you have an app to track your data usage or else it gets expensive
 

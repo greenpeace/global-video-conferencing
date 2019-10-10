@@ -2,11 +2,10 @@
 layout: default
 ---
 
-[Link to another page](https://pages-themes.github.io/cayman/).
-
 | Lifesize Video Conferencing        |
 |:-----------------------------------|
-| We are currently transitioning our global video conferencing system from LifeSize to Zoom. We will be completely switching systems on the first week of November.          |
+| We are **transitioning video conferencing systems*** from LifeSize to **Zoom**. On November 4th you will no longer be able to use LifeSize in Video Conferencing rooms. To avoid issues make sure to update meetings in your calendars to remove any Lifesize box numbers and [add a Zoom meeting ID](https://support.greenpeace.org/support/collaboration/video-conferencing/using-zoom#create-a-meeting).|
+|Do you **need to use LifeSize** before the final switch? [Visit this page](http://vc.greenpeace.org/lifesize)        |
 
 ### Three golden rules to follow
 
