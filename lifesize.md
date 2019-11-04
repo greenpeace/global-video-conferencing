@@ -1,6 +1,7 @@
 ---
 layout: default
-permalink: /lifesize/
+permalink: /lifesize
+
 ---
 
 ### Lifesize is replaced by Zoom 
