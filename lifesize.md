@@ -1,7 +1,6 @@
 ---
 layout: default
 permalink: /lifesize/
-
 ---
 
 ### Lifesize is replaced by Zoom 
