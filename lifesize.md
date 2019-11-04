@@ -2,22 +2,8 @@
 layout: default
 ---
 
-| Lifesize is being replaced by Zoom | Update meetings in your calendars | Trainings for Zoom |
-|:-----------------------------------|:----------------------|:-------------------|
-| On **November 4th** LifeSize will be no longer available in Video Conferencing rooms. If you need to join a Lifesize call before the final transition you can [join here](http://vc.greenpeace.org/lifesize) | To avoid issues with meetings scheduled after November 4th update them in your calendar. Remove Lifesize box numbers and [add Zoom meeting IDs](https://support.greenpeace.org/support/collaboration/video-conferencing/using-zoom#create-a-meeting). | Be better prepared for the switch to Zoom by joining one of the scheduled trainings for using Zoom. [Sign up here!](https://forms.gle/89naSikqcDu6mWSr5)!
-
-### Three golden rules to follow during your meetings
-
-1. **Always wear a headset** to prevent echo. The attached microphone stops background noise (like your computer's fan, hard disk or keyboard tapping). iPhone-style "string" and bluetooth sets give poor quality audio.
-2. **Use in a quiet area or keep on mute.** Background noise causes fatigue, and more than one person with background noise can easily stop anyone hearing anything.
-3. **Make a test call.** A slow connection or a connection filled with too much traffic can compromise your sound and video quality. A meeting ID will work even before your meeting takes place, use it to check if your image shown unbroken back to you.
-
-#### Good to know
-* One person breaking the above rules can ruin the call for all!
-* Use **Gallery View** when there is no presentation so that you can see others in the call
-* To be seen clearly, have **good lighting behind the camera** or to the side, not behind you!
-* Keep pressing spacebar for as long as you need to speak. This will temporarily unmute you.
-* Touching or playing with your microphone will flood the call with noise
-* Use mobile data if you have an app to track your data usage or else it gets expensive
+| Lifesize is replaced by Zoom | Update meetings in your calendars |
+|:-----------------------------------|:----------------------|
+| Since **November 4th** LifeSize is no longer available in Video Conferencing rooms as default functionality. If you need to join a Lifesize call you can use the Lifesize app on your machine. Lifesize numbers will no longer be accessible from December 1st. | To avoid issues with meetings make sure to update them in your calendar. Remove Lifesize box numbers and [add Zoom meeting IDs](https://support.greenpeace.org/support/collaboration/video-conferencing/using-zoom#create-a-meeting). |
 
 For tips and best practices while joining or hosting [check the documentation](https://support.greenpeace.org/support/collaboration/video-conferencing).
