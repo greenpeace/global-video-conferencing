@@ -8,3 +8,14 @@ button1_url: https://greenpeace.zoom.us/join
 button2_url: https://greenpeace.zoom.us/start/videomeeting
 button3_url: https://greenpeace.zoom.us/signin
 button4_url: https://greenpeace.zoom.us/download
+# Custom headers
+webrick:
+  headers:
+    Content-Security-Policy: default-src 'self'; script-src 'self'; connect-src 'self'; style-src 'self'; 
+    Strict-Transport-Security: max-age=31536000;
+    X-Content-Type-Options: nosniff;
+    X-Frame-Options: SAMEORIGIN;
+    Access-Control-Allow-Origin: https://vc.greenpeace.org;
+    Set-Cookie: Domain=vc.greenpeace.org;
+    X-XSS-Protection: 1;
+    Referrer-policy: no-referrer-when-downgrade;
